@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="[img/icon.png](https://bsms-web.vercel.app/img/icon.png)" alt="BSMS Web Logo" width="125" height="125">
+ <div align="center">
+  <img src="https://bsms-web.vercel.app/img/icon.png" alt="BSMS Web Logo" width="125" height="125">
 
   <h1>BSMS Web</h1>
 
@@ -13,7 +13,7 @@
   [![Firebase](https://img.shields.io/badge/Database-Firebase%20RTDB-FFCA28?logo=firebase)](https://firebase.google.com/)
   [![Vercel](https://img.shields.io/badge/Hosting-Vercel-black?logo=vercel)](https://vercel.com/)
 
-  [Website](https://bsms-web.vercel.app) · [Report a Bug](https://github.com/BSMS-Web-App/web/issues) · [View Releases](https://github.com/BSMS-Web-App/web/releases)
+  [Website](https://bsms-web.vercel.app) · [Sponsor BSMS Web](https://bsms-web.vercel.app/sponsor) · [Report a Bug](https://github.com/BSMS-Web-App/web/issues) · [View Releases](https://github.com/BSMS-Web-App/web/releases)
 </div>
 
 ---
@@ -36,7 +36,6 @@ The project combines an HTML, CSS, and JavaScript frontend with a Node.js backen
 - **Responsive Interface** — A web experience designed for desktop and mobile browsers.
 
 *Feature availability may vary between production, development, and preview deployments.*
-
 ## Documentation
 
 Use the following resources to learn more about BSMS Web, its history, and how to contribute.
