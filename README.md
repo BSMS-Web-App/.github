@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img/icon.png" alt="BSMS Web Logo" width="125" height="125">
+  <img src="[img/icon.png](https://bsms-web.vercel.app/img/icon.png)" alt="BSMS Web Logo" width="125" height="125">
 
   <h1>BSMS Web</h1>
 
